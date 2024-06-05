@@ -1,0 +1,14 @@
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\bin\Debug\net8.0\SistemaDeFuncionarios.exe
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\bin\Debug\net8.0\SistemaDeFuncionarios.deps.json
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\bin\Debug\net8.0\SistemaDeFuncionarios.runtimeconfig.json
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\bin\Debug\net8.0\SistemaDeFuncionarios.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\bin\Debug\net8.0\SistemaDeFuncionarios.pdb
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.AssemblyInfoInputs.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.AssemblyInfo.cs
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\refint\SistemaDeFuncionarios.dll
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.pdb
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\SistemaDeFuncionarios.genruntimeconfig.cache
+C:\Users\Lunacy\Documents\Projetos\SistemaDeFuncionarios\obj\Debug\net8.0\ref\SistemaDeFuncionarios.dll
